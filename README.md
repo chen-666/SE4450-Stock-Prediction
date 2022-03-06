@@ -4,7 +4,7 @@
 
 Run `pip install -r requirements.txt` in `bed` directory
 
-Run `pnpm i` in this directory
+Run `npm i` in this directory
 
 ## Development server
 
