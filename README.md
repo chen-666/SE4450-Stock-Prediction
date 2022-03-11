@@ -1,4 +1,8 @@
-# FinancePrediction
+# Stocky Prediction
+This is the project for Stocky in SE4450
+Group 2
+
+by Xinyuan Guo,Rui Wang,Ruiqi Chen, Shichen You, Lutong Zhang
 
 ## Install Deps
 
